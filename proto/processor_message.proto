@@ -1,0 +1,25 @@
+syntax="proto3";
+
+package golanggRPC;
+
+option go_package = ".;pb";
+
+import "proto/memory_message.proto";
+
+message CPU {
+    string brand = 1;
+    string name = 2;
+    string number_cores = 3;
+    string number_threads = 4;
+    string min_ghz = 5;
+    string max_ghz = 6;
+}
+
+message GPU {
+    string brand = 1;
+    string name = 2;
+    string min_ghz = 5;
+    string max_ghz = 6;
+    Memory memory = 7;
+}
+
