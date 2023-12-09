@@ -1,0 +1,61 @@
+{
+  "id": "64ab81a1-0438-4393-abee-ff3a4aa1804f",
+  "brand": "Dell",
+  "name": "XPS",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i5-9400F",
+    "number_cores": 7,
+    "number_threads": 12,
+    "min_ghz": 2.535189416981638,
+    "max_ghz": 3.5957121895617243
+  },
+  "ram": {
+    "value": "5",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "Nvidia",
+      "name": "RTX 2060",
+      "min_ghz": 2.813396387013453,
+      "max_ghz": 4.528684546947259,
+      "memory": {
+        "value": "5",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "662",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "5",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 16.778517,
+    "resolution": {
+      "width": 7548,
+      "height": 4246
+    },
+    "panel": "OLED",
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": "QWERTY"
+  },
+  "weight_kg": 1.5807096390388025,
+  "price_usd": 1838.6550399771866,
+  "release_year": 2018,
+  "updated_at": "2023-12-10T03:51:05.205972Z"
+}
