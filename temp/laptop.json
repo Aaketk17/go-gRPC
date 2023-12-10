@@ -1,27 +1,27 @@
 {
-  "id": "64ab81a1-0438-4393-abee-ff3a4aa1804f",
+  "id": "e539dc5b-decd-45ba-889a-948871b030fd",
   "brand": "Dell",
   "name": "XPS",
   "cpu": {
-    "brand": "Intel",
-    "name": "Core i5-9400F",
-    "number_cores": 7,
-    "number_threads": 12,
-    "min_ghz": 2.535189416981638,
-    "max_ghz": 3.5957121895617243
+    "brand": "AMD",
+    "name": "Ryzen 5 PRO 3500U",
+    "number_cores": 6,
+    "number_threads": 10,
+    "min_ghz": 2.805813084318464,
+    "max_ghz": 4.430290304967044
   },
   "ram": {
-    "value": "5",
+    "value": "4",
     "unit": "GIGABYTE"
   },
   "gpus": [
     {
       "brand": "Nvidia",
-      "name": "RTX 2060",
-      "min_ghz": 2.813396387013453,
-      "max_ghz": 4.528684546947259,
+      "name": "GTX 1070",
+      "min_ghz": 2.0533066793542196,
+      "max_ghz": 2.787221459572713,
       "memory": {
-        "value": "5",
+        "value": "6",
         "unit": "GIGABYTE"
       }
     }
@@ -30,32 +30,33 @@
     {
       "driver": "SSD",
       "memory": {
-        "value": "662",
+        "value": "263",
         "unit": "GIGABYTE"
       }
     },
     {
       "driver": "SSD",
       "memory": {
-        "value": "5",
+        "value": "2",
         "unit": "TERABYTE"
       }
     }
   ],
   "screen": {
-    "size_inch": 16.778517,
+    "size_inch": 16.340155,
     "resolution": {
-      "width": 7548,
-      "height": 4246
+      "width": 2883,
+      "height": 1622
     },
-    "panel": "OLED",
+    "panel": "IPS",
     "multitouch": true
   },
   "keyboard": {
-    "layout": "QWERTY"
+    "layout": "QWERTZ",
+    "backlit": true
   },
-  "weight_kg": 1.5807096390388025,
-  "price_usd": 1838.6550399771866,
-  "release_year": 2018,
-  "updated_at": "2023-12-10T03:51:05.205972Z"
+  "weight_kg": 2.3677018190853616,
+  "price_usd": 2263.064441259545,
+  "release_year": 2015,
+  "updated_at": "2023-12-10T05:56:51.720427Z"
 }
